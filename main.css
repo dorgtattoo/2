@@ -59,6 +59,7 @@ body {
 }
 
 .logo {
+    display: flex;
     margin-top: 80px;
     height: 507px;
     width: 507px;
