@@ -78,7 +78,7 @@ h1 {
 
 @font-face {
     font-family: "Deardorf Demo";
-    src: url(fonts/DeardorfDemo.ttf);
+    src: url('fonts/DeardorfDemo.ttf') format('truetype');
 }
 
 h2 {
