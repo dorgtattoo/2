@@ -76,9 +76,9 @@ h1 {
     font-size: 300%;
 }
 
-font {
+@font-face {
     font-family: "Deardorf Demo";
-    src: url(/fonts/deardorfdemo.woff);
+    src: url(fonts/deardorfdemo.woff);
 }
 
 h2 {
