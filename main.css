@@ -154,3 +154,14 @@ ol img {
 .latestTattoos {
     font-size: 300%;
 }
+
+.myMusic {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.myMusic iframe {
+    margin-top: 15px;
+    box-shadow: 5px 10px 15px;
+}
