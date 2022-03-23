@@ -18,8 +18,8 @@ ol {
 }
 
 ol li {
-    font-family: "Deardorf Demo";
-    font-size: 150%;
+    font-family: "Berlin Sans";
+    font-size: 120%;
     display: inline-block;
     align-self: center;
     padding-right: 15px;
@@ -82,12 +82,14 @@ h1 {
 @font-face {
     font-family: "Deardorf Demo";
     src: url('fonts/DeardorfDemo.ttf') format('truetype');
+    font-family: "Berlin Sans";
+    src: url('fonts/BRLNSR.TTF') format('truetype');
 }
 
 h2 {
     text-align: center;
-    font-family: "Deardorf Demo";
-    font-size: 300%;
+    font-family: "Berlin Sans";
+    font-size: 200%;
 }
 
 .Bottom {
@@ -100,10 +102,10 @@ h2 {
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-family: "Deardorf Demo";
+    font-family: "Berlin Sans";
     height: 40px;
-    width: 100px;
-    margin: 20px;
+    width: 120px;
+    margin: 10px;
     border-radius: 20px;
     justify-content: center;
     gap: 10px 30px;
@@ -144,4 +146,8 @@ ol img {
     align-items: center;
     margin: 15px;
     float: none;
+}
+
+.latestTattoos {
+    font-size: 300%;
 }
