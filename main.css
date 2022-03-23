@@ -121,3 +121,21 @@ h2 {
     border: solid rgb(0, 0, 0) 2px;
     background: linear-gradient(180deg, rgba(95, 158, 160, 0.6), rgba(255, 255, 255, 0));
 }
+
+.portfolio {
+    display: inline-flex;
+    margin-top: 70px;
+    height: 200px;
+    align-self: center;
+    padding: 0;
+}
+
+.tattoos {
+    height: 200px;
+    align-content: center;
+    box-shadow: 5px 10px 15px;
+}
+
+ul img {
+    align-items: center;
+}
