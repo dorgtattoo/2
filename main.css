@@ -55,6 +55,7 @@ body {
     flex-direction: column;
     margin: 0%;
     background-image: url(images/solid.jpg);
+    background-position: 0%;
     align-content: center;
 }
 
