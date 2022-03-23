@@ -1,5 +1,4 @@
 nav {
-    display: flex;
     background: linear-gradient(180deg, rgba(95, 158, 160, 0.6), rgba(255, 255, 255, 0));
     height: 35px;
     border-bottom-left-radius: 100px;
@@ -55,7 +54,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0%;
-    background-color: rgb(198, 253, 255);
+    background-image: url(/images/solid.jpg);
     align-content: center;
 }
 
@@ -124,6 +123,7 @@ h2 {
 }
 
 .portfolio {
+    justify-content: center;
     display: flex;
     flex-wrap: wrap;
     margin-top: 10px;
