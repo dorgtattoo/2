@@ -162,6 +162,7 @@ ol img {
 }
 
 .myMusic iframe {
+    justify-self: center;
     margin-top: 15px;
     box-shadow: 5px 10px 15px;
 }
