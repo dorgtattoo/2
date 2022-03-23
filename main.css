@@ -124,7 +124,7 @@ h2 {
 
 .portfolio {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     margin-top: 10px;
     align-items: center;
     padding: 0;
@@ -141,6 +141,5 @@ ol img {
     display: flex;
     align-items: center;
     margin: 15px;
-    padding-right: 40px;
     float: none;
 }
