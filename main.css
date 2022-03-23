@@ -55,7 +55,7 @@ body {
     flex-direction: column;
     margin: 0%;
     background-image: url(images/solid.jpg);
-    background-position: 0%;
+    background-attachment: fixed;
     align-content: center;
 }
 
